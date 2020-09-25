@@ -1,0 +1,10 @@
+aleppo before war
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MXTqPp0waBM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Syria before war
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UfUaqQGMGxI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<link rel='stylesheet' href="bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">
+<link rel='stylesheet' href="bootstrap-3.3.7-dist/css/bootstrap.min.css">

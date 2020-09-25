@@ -1,0 +1,152 @@
+body
+{
+  background-color:#AF3131;
+  margin: 0;
+}
+
+
+#header
+{
+  background-color:#DEE2D9;
+  margin:2px;
+  height:90px;
+  border-radius:5px;
+}
+
+#navbar ul
+{
+  background-color:#859996;
+  margin:10px;
+	padding:5px;
+	border-radius:10px;
+	margin:10px;
+	list-style-type: none;
+	text-align: center;
+}
+
+#navbar ul li{display:inline;}
+
+#navbar ul li a
+{
+  text-decoration: none;
+  font-family: italic;
+	color: #fff;
+	padding: .2em 1em;
+}
+
+#navbar ul li a:hover
+{
+  color: black;
+ background-color:#fff;
+}
+
+#sidebar{background-color:#e5e4d7;
+      margin:10px;
+	  margin-top:10px;
+	  padding:20px;
+	  border-radius:5px;
+	  float:right;
+	  width:260px;
+	  clear:right;
+}
+
+.main{background-color:#e5e4d7;
+      margin:10px;
+	  padding:20px;
+	  margin-right:320px;
+
+	  border-radius:5px;
+	  font-size:110%;
+}
+
+h3{	font-size: 35px;
+   text-align: center;
+   color: #D6CA44;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   margin: 0px;
+
+   position:relative;
+   top:20PX;
+   -webkit-transform:translate y(-50%);
+   -ms-transform:translate y(-50%);
+       transform:translate y(-50%);
+	   text-shadow:1px 1px black;
+     }
+
+#footer
+{
+  background-color:#859996;
+  margin:50px;
+	height:50px;
+	border-radius:10px;
+	clear:both;
+}
+
+
+/*========style the form=======*/
+
+#ww{width:940px;
+   height:590px;
+    background-color:#ffcf79;
+	margin:20px 20px 20px 20px;
+	margin-top:20px;
+	margin-left:25px;
+	background-image:url("Images/war2.jpg");
+
+	}
+
+
+#Theform{
+         margin-left:10px;
+         margin-top:10px;
+		 padding:10px;
+		 display:table;
+		 display:table;
+		 color: black;
+		 font-weight:bold;
+		  }
+
+.row
+{
+  display:table-row;
+}
+
+.row label{display:table-cell;
+           padding:2px;
+         }
+
+.row input{display:table-cell;
+           padding:2px;
+         border-radius: 10px;}
+
+ /*========style the headings=======*/
+
+h1{font-size:35px;
+   text-align:center;
+    color:yellow;
+	padding-top:25px;
+	font-family:serif;
+	text-shadow:2px 2px black;
+}
+h2{color:blue;}
+
+/*======images=====*/
+
+  .imageb{
+     margin-right:10px;
+	  margin-top:0;
+	  margin-left:10px;
+      margin-bottom:10px;
+	  border-radius:5px;
+	  float:right;
+	  width:300px;
+	  height:240px;
+	  clear:right;
+	  opacity:1.0;
+}
+#reg{width:150px;
+     height:35px;
+      background-color:orange;
+	  font-size:20px;
+	  font-weight:bold;
+	  border-radius:5px;}
